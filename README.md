@@ -4,7 +4,7 @@ I am a business analytics student at the University of Iowa who is just getting 
 # Project Title
 Hello World Assigment Business Pro Prep
 **Note, this is a test**
-# Appendiz
+# Appendix
 > This is an example of how a quote would appear on GitHub
 # Items Completed
 - Created account
